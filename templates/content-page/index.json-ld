@@ -30,8 +30,7 @@
 				"language": "fr",
 				"path": "content-fr.html"
 			},
-
-			{
+            {
 				"title": "Fluid content page",
 				"language": "en",
 				"path": "content-fluid-en.html"
@@ -41,7 +40,6 @@
 				"language": "fr",
 				"path": "content-fluid-fr.html"
 			},
-
 			{
 				"title": "Content page - Limited width content",
 				"language": "en",
